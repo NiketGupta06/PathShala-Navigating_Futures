@@ -9,8 +9,8 @@
 
 ## 🔗 Links
 
- - [Github Link](https://niketgupta06.github.io/PathShala-Navigating_Futures/)
- - [Website Link](https://github.com/NiketGupta06/PathShala-Navigating_Futures)
+ - [Website Link](https://niketgupta06.github.io/PathShala-Navigating_Futures/)
+ - [GitHub Link](https://github.com/NiketGupta06/PathShala-Navigating_Futures)
 
 ## 🛠 Skills
 HTML, CSS, JavaScript, Git
